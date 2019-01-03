@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "ranvier-dialogflow-npcs",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "apiai": "^4.0.3"
+  }
+}
